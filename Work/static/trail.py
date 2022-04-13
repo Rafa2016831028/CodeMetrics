@@ -14,9 +14,9 @@ def read_data_from_web():
     data = "Data from the web"
     return data
 
-def write_data_to_database(data):
-    print("Writing data to a database")
-    print(data)
+# def write_data_to_database(data):
+#     print("Writing data to a database")
+#     print(data)
 
 def main():
     data = read_data_from_web()
